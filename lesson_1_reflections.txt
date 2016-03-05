@@ -1,0 +1,16 @@
+yeah yeah.
+
+used diff. already knew it.
+
+played asteroids, couldn't control the ship.
+
+don't know how to run javascript. But, that's not in the lesson.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+How can you use the commands git log and git diff to view the history of files?
+
+How might using version control make you more confident to make changes that could break something?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Editing with my commit...
