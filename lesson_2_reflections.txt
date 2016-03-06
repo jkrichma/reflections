@@ -9,3 +9,12 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 - by using git add. seems like more trouble than its worth.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- If you want to try something.
+- If you are supporting multiple versions.:w
+
+How do the diagrams help you visualize the branch structure?
+
+- you can see the branch structure.
